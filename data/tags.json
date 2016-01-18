@@ -1,0 +1,17 @@
+{
+  "management": "ניהול",
+  "analysis": "ניתוח",
+  "design": "עיצוב",
+  "development": "פיתוח",
+  "marketing": "שיווק",
+  "photography": "צילום",
+  "public_relations": "יחסי ציבור",
+  "system_characterization": "אפיון מערכת",
+  "product_characterization": "אפיון מוצר",
+  "statistics": "סטטיסטיקה",
+  "mobile": "Mobile",
+  "quality_assurance": "QA",
+  "java": "Java",
+  "graphics_design": "עיצוב גרפי",
+  "branding": "מיתוג"
+}
